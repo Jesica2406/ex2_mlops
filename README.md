@@ -1,0 +1,1 @@
+In the large text area below, you can enter the content of your file. If you're creating a new file, this will be the initial content. You can type or paste your code, text, or whatever content you want the file to have.
